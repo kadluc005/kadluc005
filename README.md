@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucien KADANSAO</h1>
 
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+web+&+mobile;data+science">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=web+developer;data+science">
     <h3 align="center">A passionate developer and data analyst from Togo</h3>
 </p>
 
